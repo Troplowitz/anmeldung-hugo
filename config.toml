@@ -3,7 +3,6 @@ languageCode = "en"
 title = "Anmeldung in English"
 theme = "Hucore"
 copyright = "&copy; 2017"
-disqusShortname = "shortname"
 googleAnalytics = "trackingcode"
 
 [taxonomies]
