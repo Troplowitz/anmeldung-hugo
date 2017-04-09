@@ -7,4 +7,4 @@ draft = true
 categories = ["category"]
 
 +++
-Unfortunately, The Anmeldung Generator is currently unavailable. It should be available shortly so come back soon!
+Unfortunately, The Anmeldung Generator is currently unavailable. It should be ready shortly so come back soon!
