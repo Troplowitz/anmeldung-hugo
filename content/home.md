@@ -4,7 +4,7 @@ description = "How does it all work?"
 author = ""
 draft = true
 date = "2017-04-08T20:36:47+02:00"
-title = "The Anmeldung form explained in English"
+title = "Home"
 
 +++
 
@@ -18,4 +18,4 @@ There are some guides offered in English, such as [this one for Hamburg](http://
 
 Another option is to use the **Anmeldung Generator**. This service costs €5. You simply need to input your residence details, and a completed (in German) Anmeldung PDF will be emailed to you. You can then print this off and take it to your registration appointment.
 
-[![Foo](/call-to-action-button.png)](./anmeldung-generator)
+[![Foo](/call-to-action-button.png)](./post/anmeldung-generator)

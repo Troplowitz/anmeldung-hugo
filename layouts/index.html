@@ -1,0 +1,17 @@
+{{ range where .Data.Pages "Title" "Home" }}
+  {{ partial "header" . }}
+  {{ partial "nav" . }}
+  <section class="section">
+    <div class="container">
+      <div class="content">
+        {{ .Content }}
+        <button type="button" class="btn btn-primary">Primary</button>
+      </div>
+      {{ if (ne ($.Param "sharingicons") false) }}
+      {{ partial "sharing.html" . }}
+      {{ end }}
+    </div>
+  </section>
+  {{ partial "disqus" . }}
+  {{ partial "footer" . }}
+{{ end }}
