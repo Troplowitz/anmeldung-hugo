@@ -1,9 +1,9 @@
-baseurl = "/"
+baseurl = "https://piggins.github.io/anmeldung-generator/"
 languageCode = "en"
 title = "Anmeldung in English"
 theme = "Hucore"
 copyright = "&copy; 2017"
-googleAnalytics = "trackingcode"
+googleAnalytics = "UA-96993711-1"
 
 [taxonomies]
 tag = "tags"
