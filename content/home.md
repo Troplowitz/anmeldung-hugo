@@ -2,8 +2,8 @@
 categories = ["category"]
 description = "How does it all work?"
 author = ""
-draft = true
-date = "2017-04-08T20:36:47+02:00"
+draft = false
+date = "2017-04-09T17:57:46+02:00"
 title = "Home"
 
 +++
