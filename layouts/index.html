@@ -5,7 +5,9 @@
     <div class="container">
       <div class="content">
         {{ .Content }}
-        <button type="button" class="btn btn-primary">Primary</button>
+        <a type="button" class="btn btn-primary button" href="./post/anmeldung-generator">
+          Generate Anmeldung PDF (€5)
+        </a>
       </div>
       {{ if (ne ($.Param "sharingicons") false) }}
       {{ partial "sharing.html" . }}

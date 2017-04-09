@@ -15,4 +15,4 @@ keywords = ["keyword 1", "keyword 2", "keyword 3"]
 author = "The Anmeldung helper"
 sharingicons = true
 displayauthor = true
-custom_css = ["css/custom.css"]
+custom_css = ["css/custom.css", "css/bootstrap.css"]
