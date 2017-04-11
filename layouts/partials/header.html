@@ -11,7 +11,7 @@
 <title>{{ if not (eq .Title "Home") }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.css">
 {{ range .Site.Params.custom_css }}
-    <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
+    <link rel="stylesheet" href="{{ $.Site.BaseURL }}/{{ . }}">
 {{ end }}
 <link rel="shortcut icon" href="{{ .Site.BaseURL }}/wave.ico">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
