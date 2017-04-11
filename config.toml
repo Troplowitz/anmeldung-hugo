@@ -10,7 +10,7 @@ tag = "tags"
 category = "categories"
 
 [params]
-description = "Your description here"
+description = "Generate the Anmeldung Form in English, and receive a completed Anmeldung PDF in German."
 keywords = ["keyword 1", "keyword 2", "keyword 3"]
 author = "The Anmeldung helper"
 sharingicons = false
