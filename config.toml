@@ -1,4 +1,4 @@
-baseurl = "anmeldunginenglish.com"
+baseurl = "http://anmeldunginenglish.com"
 languageCode = "en"
 title = "Anmeldung in English"
 theme = "Hucore"
