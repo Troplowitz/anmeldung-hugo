@@ -8,7 +8,7 @@
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:description" content="{{ .Site.Params.Description }}">
 <meta property="og:type" content="website" />
-<title>{{ .Title }}{{ if eq .IsHome false }} | {{ .Site.Title }}{{ end }}</title>
+<title>{{ if not (eq .Title "Home") }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.css">
 {{ range .Site.Params.custom_css }}
     <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
