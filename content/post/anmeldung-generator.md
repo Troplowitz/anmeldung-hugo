@@ -8,4 +8,6 @@ categories = ["category"]
 
 +++
 
-Unfortunately, The Anmeldung Generator is currently unavailable. It should be ready shortly so come back soon!
+Unfortunately, The Anmeldung Generator is currently under development. In the meantime, you can use this
+example translation of the Berlin Anmeldung form:
+[<img src="/example_form.png">](/example_form.png)
