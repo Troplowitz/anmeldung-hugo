@@ -2,7 +2,7 @@ baseurl = "http://anmeldunginenglish.com"
 languageCode = "en"
 title = "Anmeldung in English"
 theme = "Hucore"
-copyright = "&copy; 2017"
+copyright = "&copy; 2017 | <a href=\"/post/privacy-policy\" target=\"_blank\">Privacy Policy</a>"
 googleAnalytics = "UA-96993711-1"
 
 [taxonomies]
