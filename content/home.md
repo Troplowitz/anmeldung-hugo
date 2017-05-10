@@ -40,22 +40,8 @@ For a successful Anmeldung you will need:
 
 ### What if I don't speak German?
 
- An alternative is our **Anmeldung Generator** service, which guides you through the process in English.
-
-
-### How does **Anmeldung Generator** work?
-
-1. You input your personal details in English.
-
-2. You pay **€4.99** via Paypal.
-
-3. We will email you a valid German copy of both the *Anmeldung* and *Wohnungsgeberbestätigung* forms as PDFs, filled in with your personal details.
-
-4. You then print out the forms, sign the *Anmeldung* form, and get your landlord to sign the *Wohnungsgeberbestätigung*.
-
-<a type="button" class="btn btn-primary button" href="./post/anmeldung-generator">
-Use Anmeldung Generator now
-</a>
+Good news! We've translated a copy of the Berlin *Anmeldung* form for your convenience. The forms of other cities may differ slightly, but require the same information.
+[<img src="/example_form.png">](/example_form.png)
 
 ### What do I do next?
 
