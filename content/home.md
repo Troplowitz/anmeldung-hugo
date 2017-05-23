@@ -24,7 +24,7 @@ Once moved in to your new residence, you have generally **1 week** to book an *A
 
 ### What does it cost?
 
-In most cases the *Anmeldung* is free. However, since German federal states have their own process, there can be exceptions; such as Hamburg, which currently charges a fee of €12 per person or family.
+In most cases the *Anmeldung* is free. However, since German federal states have their own process, there can be exceptions; such as Hamburg, which currently charges a fee of €12,00 per person or family.
 
 ### What do I need?
 
