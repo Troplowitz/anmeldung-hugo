@@ -18,9 +18,9 @@ Every person permanently living in Germany must by law register with their local
 
 ### Who needs to register and when?
 
-For foreigners, every stay longer than **3 months** is considered permanent and needs to be reported. This means that a permanent residence must be found within these 3 months (This can be a friend's house or hotel). If you change residences during this time, you should record the one where you have spent the most time.
+For foreigners, every stay longer than **3 months** is considered permanent and needs to be reported. This means that a permanent residence must be found within these 3 months (This can be a friend's house or hotel).
 
- Once moved in to your new residence, you have generally **1 week** to book an *Anmeldung*  appointment (**2 weeks** in some states). Exceeding the time limit may land you with a fine.
+Once moved in to your new residence, you have generally **1 week** to book an *Anmeldung*  appointment (**2 weeks** in some states). Exceeding the time limit may land you with a fine.
 
 ### What does it cost?
 
