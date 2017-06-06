@@ -18,7 +18,7 @@ After moving to your new residence, you've generally got **2 weeks** to book an 
 
 1. You're staying as a foreigner for more than **3 months** (2 months in Berlin) *or*
 
-2. You're moved to a new location as an existing German resident for more than **6 months**.
+2. You've moved to a new location as an existing German resident for more than **6 months**.
 
 This means that a foreigner must find a permanent residence in this 3 (or 2) month period. A permanent residence can also be a hotel, or a friend's house with a sublease contract.
 
@@ -35,7 +35,7 @@ For a successful *Anmeldung* you will need:
 -	The *Anmeldung* form for your city, completed in German
 -	A confirmation form from your landlord, known as *Wohnungsgeberbestätigung* or *Vermieter-Bestätigung*, also completed in German
 -	Your passport or German ID
--	*If present:* Your rental or sublease contract
+-	*If present:* your rental or sublease contract
 -	*If required:* your visa or residence permit
 -	*If present:* marriage certificate, birth certificates of your children, divorce papers
 -	Some cash for any processing fees. *Note: Credit cards may not be accepted*
