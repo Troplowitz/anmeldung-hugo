@@ -8,41 +8,51 @@ title = "Home"
 
 +++
 
-#### What is the *Anmeldung* and what do I need it for?
+### What is the *Anmeldung* and what do I need it for?
 
-Every person permanently living in Germany has the legal responsibility to inform the local registration office about his or her moving. This process in German is called *Anmeldung*. It is also condition for lots of further bureaucratic operations, such as registering your car, the acquisition of a driving license or the delivery of your income tax card.
+Every person permanently living in Germany must by law register with their local registration office. This process is called *Anmeldung*. It is also required for getting an internet or phone contract, registering a car, reporting income tax and more.
 
-#### Who needs to register and when?
+### Who needs to register and when?
 
-For EU citizens every stay longer than 3 month is considered as permanent and thus needs to be reported. However, at the latest when you move in to a rental place the *Anmeldung* is to be done. Therefor most German federal states grant you a time-limit of one week from the move-in date stated in you rental contract, with some exceptions granting you two weeks. In case you exceed the time-limit there can be sensitive monetary fines discretionary to the responsible registration office.
+After moving to your new residence, you've generally got **2 weeks** to book an *Anmeldung* appointment. You must register if:
 
-#### What does it cost?
+1. You're staying as a foreigner for more than **3 months** (2 months in Berlin) *or*
 
-In most cases the *Anmeldung* is free. However, since German federal states have their own discretion of the process, there can be exceptions; such as Hamburg charging a fee of currently 12,00 €.
+2. You've moved to a new location as an existing German resident for more than **6 months**.
 
-#### What do I need?
+This means that a foreigner must find a permanent residence in this 3 (or 2) month period. A permanent residence can also be a hotel, or a friend's house with a sublease contract.
 
-For a successful Anmeldung you will need:
-♣	The *Anmeldung* form, to complete in German
-♣	The confirmation form of your landlord called *Wohnungsgeberbestätigung* or *Vermieter-Bestätigung*, to complete in German
-♣	Your passport, if necessary those of your familiy-members
-♣	Your rental contract
-♣	If present: your visa or residence permit
-♣	If present: marriage certificate, birth certificates of your children, divorce papers since the *Anmeldung* also determines the placement into a tax class
-♣	Some cash for paying eventual processing fees at the registration office
+Exceeding these time limits may land you with a fine of up to €1000. Goodwill claims are frequently reported, however.
 
-#### How does it work?
+### What does it cost?
 
-1)	In the first place it is necessary to complete two forms, which are available in German only: The *Anmeldung* and the *Wohnungsgeberbestätigung*, also called *Vermieter-Bestätigung* (confirmation of your landlord). An easy way especially for foreign newcomers is our **Anmeldung Generator** guiding you through the questions in English. You simply need to input your residence details. We will then automatically transfer your data onto both the original *Anmeldung* such as the *Wohnungsgeberbestätigung* and provide it to you as PDFs.
+In most cases the *Anmeldung* is free. However, since German federal states have their own process, there can be exceptions; such as Hamburg, which currently charges a fee of €12 per person or family.
 
-## This service costs 4,99 €.
+### What do I need?
 
-Now please print and doublecheck the forms. Then please sign the *Anmeldung* and also remember to ask your landlord to sign the *Wohnungsgeberbestätigung*. The forms are ready to hand in to your registration office now.
+For a successful *Anmeldung* you will need:
 
-2)	Make an appointment at your registration office.
+-	The *Anmeldung* form for your city, completed in German
+-	A confirmation form from your landlord, known as *Wohnungsgeberbestätigung* or *Vermieter-Bestätigung*, also completed in German
+-	Your passport or German ID
+-	*If present:* your rental or sublease contract
+-	*If required:* your visa or residence permit
+-	*If present:* marriage certificate, birth certificates of your children, divorce papers
+-	Some cash for any processing fees. *Note: Credit cards may not be accepted*
 
-In most German states for the *Anmeldung* a visit at your responsible registration office is compulsory. If you are moving together with your family it is sufficient if one parent shows up as a representative for the other family members. In most registration offices you can easily make an appointment online – just visit their appropriate website.
+### What if I don't speak German?
 
-3)	Your visit at the registration office.
+Good news! We've translated a copy of the Berlin *Anmeldung* form for your convenience. The forms of other cities may differ slightly, but require mostly the same information.
+[<img src="/example_form.png">](/example_form.png)
 
-The visit at the registration office – in German *Einwohnermeldeamt* – is a quick and simple operation provided you made an appointment in advance. The employer transfers both the completed forms into the system, checks your passport and if present your visa and certificates and clarifies possible queries. Eventually he will hand out the so-called *Meldebestätigung*, which means the confirmation of registration and resident.
+### What do I do next?
+
+#### 1. Make an appointment at your registration office.
+
+In most German states for the *Anmeldung* a visit at the responsible registration office (generally called *Kundenzentrum* or *Bezirksamt*), is compulsory. In most registration offices you can easily make an appointment online – just visit your city's website.
+
+Registration offices are often booked out for several months, especially in Germany's bigger cities. Don't worry too much though - simply booking within the 2 week time limit is sufficient. You can also choose any registration office in your city, so choosing an office a bit further out might make it easier to get an appointment.
+
+#### 2. Visit the registration office.
+
+The visit at the registration office is a quick and relatively simple operation provided you made an appointment in advance. The registration officer will check your passport or ID and transfer both the completed forms into the system. You will then finally receive your *Meldebestätigung*, the confirmation of your residence.

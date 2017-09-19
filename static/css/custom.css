@@ -1,0 +1,18 @@
+.nav-section {
+  background-color: #4c5982;
+}
+.nav {
+  background-color: transparent;
+}
+
+.title {
+  color: white;
+}
+
+.content-section {
+  padding: 80px 20px;
+}
+
+.container {
+  max-width: 600px;
+}
