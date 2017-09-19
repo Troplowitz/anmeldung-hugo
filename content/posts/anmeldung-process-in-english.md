@@ -4,7 +4,7 @@ description = "How does it all work?"
 author = ""
 draft = false
 date = "2017-04-09T17:57:46+02:00"
-title = "Home"
+title = "The Anmeldung process in English"
 
 +++
 

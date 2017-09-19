@@ -3,7 +3,7 @@ author = ""
 categories = ["category"]
 date = "2017-05-07T14:12:09+02:00"
 description = ""
-draft = false
+draft = true
 title = "Privacy Policy"
 
 +++
